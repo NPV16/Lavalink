@@ -13,7 +13,7 @@
 
 4: 修改Launcher.kt文件里 132至152 行中添加需要的环境变量，不需要的留空，保存后Actions会自动构建
 
-5: 等待5分钟后,进入actions菜单，打开运行的工作流，拉到最面下载Lavalink.jar上传到容器的根目录运行即可
+5: 等待5分钟后,进入actions菜单，打开运行的工作流，拉到最面下载Lavalink.jar得到Lavalink.jar.gz压缩包，解压后得到Lavalink.jar上传到容器的根目录运行即可
 
 
 ### **相关环境变量说明**
